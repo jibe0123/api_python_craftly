@@ -5,4 +5,4 @@ arrow==0.10.0
 
 pytest==3.1.1
 mock==2.0.0
-werkzeug==0.16.1
+werkzeug==2.2.3
